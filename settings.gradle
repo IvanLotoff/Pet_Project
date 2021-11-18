@@ -1,0 +1,4 @@
+include ':app'
+include ':model'
+include ':network'
+rootProject.name = "Pet Project"
